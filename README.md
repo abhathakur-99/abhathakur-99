@@ -50,21 +50,6 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<hr>
-
 <h3 align="center">🌐 Let's Connect!</h3>
 
 <p align="center">
